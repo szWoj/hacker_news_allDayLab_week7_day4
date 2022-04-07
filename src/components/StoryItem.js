@@ -1,10 +1,12 @@
 import React from 'react';
 
-const StoryItem = () => {
+const StoryItem = (title, url) => {
     return (
-        <div>
-            <h3>Story Item</h3>
-        </div>
+        <>
+        <li>
+            
+        </li>
+        </>
     )
 }
 
